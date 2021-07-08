@@ -1,7 +1,10 @@
 # 简介
-自用的一些小方法
+自用的一些小东西
 
-## 使用文档
+### 页面效果
+![](./doc/canvas.gif)
+
+### 使用文档
 ```
 npm i canvas-clock
 yarn add canvas-clock
