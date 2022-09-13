@@ -1,5 +1,5 @@
 # 简介
-自用的一些小东西
+使用canvas写的时钟
 
 ### 页面效果
 ![](./doc/canvas.gif)
@@ -16,6 +16,6 @@ import CanvasClock from 'canvas-clock';
 ```js
 new CanvasClock({
   el: "#canvas", // 必传
-  color: 'red'   // 可传
+  color: 'red' 
 });
 ```
